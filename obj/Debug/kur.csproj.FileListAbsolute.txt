@@ -1,0 +1,110 @@
+C:\Users\AkiWeb\Desktop\kur\kur\bin\Debug\kur.exe.config
+C:\Users\AkiWeb\Desktop\kur\kur\bin\Debug\kur.exe
+C:\Users\AkiWeb\Desktop\kur\kur\bin\Debug\kur.pdb
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.exe
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.pdb
+C:\Users\AkiWeb\Desktop\kur\kur\obj\Debug\kur.Form1.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\bin\Debug\kur.exe.config
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\bin\Debug\kur.exe
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\bin\Debug\kur.pdb
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form1.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form2.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.exe
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.pdb
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form3.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form4.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form5.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form6.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form7.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form8.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form10.resources
+C:\Users\AkiWeb\Desktop\для изучения\курсач\kur\kur\obj\Debug\kur.Form9.resources
+C:\Users\Natali\Documents\программирование\kur\kur\bin\Debug\kur.exe.config
+C:\Users\Natali\Documents\программирование\kur\kur\bin\Debug\kur.exe
+C:\Users\Natali\Documents\программирование\kur\kur\bin\Debug\kur.pdb
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form1.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form10.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form2.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form3.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form4.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form5.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form6.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form7.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form8.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Form9.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.exe
+C:\Users\Natali\Documents\программирование\kur\kur\obj\Debug\kur.pdb
+E:\Курсовая\kur\bin\Debug\kur.exe.config
+E:\Курсовая\kur\bin\Debug\kur.exe
+E:\Курсовая\kur\bin\Debug\kur.pdb
+E:\Курсовая\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+E:\Курсовая\kur\obj\Debug\kur.Form1.resources
+E:\Курсовая\kur\obj\Debug\kur.Form10.resources
+E:\Курсовая\kur\obj\Debug\kur.Form11.resources
+E:\Курсовая\kur\obj\Debug\kur.Form2.resources
+E:\Курсовая\kur\obj\Debug\kur.Form3.resources
+E:\Курсовая\kur\obj\Debug\kur.Form4.resources
+E:\Курсовая\kur\obj\Debug\kur.Form5.resources
+E:\Курсовая\kur\obj\Debug\kur.Form6.resources
+E:\Курсовая\kur\obj\Debug\kur.Form7.resources
+E:\Курсовая\kur\obj\Debug\kur.Form8.resources
+E:\Курсовая\kur\obj\Debug\kur.Form9.resources
+E:\Курсовая\kur\obj\Debug\kur.Properties.Resources.resources
+E:\Курсовая\kur\obj\Debug\kur.csproj.GenerateResource.cache
+E:\Курсовая\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+E:\Курсовая\kur\obj\Debug\kur.exe
+E:\Курсовая\kur\obj\Debug\kur.pdb
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\bin\Debug\kur.exe.config
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\bin\Debug\kur.exe
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\bin\Debug\kur.pdb
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form1.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form10.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form11.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form2.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form3.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form4.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form5.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form6.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form7.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form8.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Form9.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.exe
+C:\Users\Natali\Documents\курсовая работа\Курсовая\kur\obj\Debug\kur.pdb
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\bin\Debug\kur.exe.config
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\bin\Debug\kur.exe
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\bin\Debug\kur.pdb
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.AssemblyReference.cache
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form1.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form10.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form11.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form2.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form3.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form4.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form5.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form6.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form7.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form8.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Form9.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.Properties.Resources.resources
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.GenerateResource.cache
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.exe
+C:\Users\Natali\Desktop\курсовая работа\Курсовая\kur\obj\Debug\kur.pdb
